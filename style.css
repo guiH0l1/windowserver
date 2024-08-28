@@ -1,0 +1,52 @@
+.h1{
+
+text-align: center;
+
+}
+
+.cabecalho{
+    width:  100%;
+    float: left;
+    padding: 50px 8%;
+    background-color: #13c7ae;
+    text-align: center;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    width: 1000px;
+    padding: 40px;
+    background-color: honeydew;
+    text-align: center;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+
+.quadrado{
+    width: 150px;
+    height: 150px;
+    font-size: 80px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.jogo{
+    margin: 0 auto;
+    border-radius: 20px;
+    text-align: center;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    margin-top: 5px;
+    font-size: 20px;
+    text-align: center;
+}
